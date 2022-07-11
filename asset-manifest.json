@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/LogIn-Template-React/static/js/main.97f73a11.chunk.js",
+    "main.js.map": "/LogIn-Template-React/static/js/main.97f73a11.chunk.js.map",
+    "runtime-main.js": "/LogIn-Template-React/static/js/runtime-main.13a352c3.js",
+    "runtime-main.js.map": "/LogIn-Template-React/static/js/runtime-main.13a352c3.js.map",
+    "static/js/2.ec4a975e.chunk.js": "/LogIn-Template-React/static/js/2.ec4a975e.chunk.js",
+    "static/js/2.ec4a975e.chunk.js.map": "/LogIn-Template-React/static/js/2.ec4a975e.chunk.js.map",
+    "index.html": "/LogIn-Template-React/index.html",
+    "precache-manifest.151c028597b03b2c862550eff93ac95e.js": "/LogIn-Template-React/precache-manifest.151c028597b03b2c862550eff93ac95e.js",
+    "service-worker.js": "/LogIn-Template-React/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13a352c3.js",
+    "static/js/2.ec4a975e.chunk.js",
+    "static/js/main.97f73a11.chunk.js"
+  ]
+}
